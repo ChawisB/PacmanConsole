@@ -1,0 +1,11 @@
+﻿  Source.cpp
+Source.cpp(23): warning C4005: 'TRUE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(75): note: see previous definition of 'TRUE'
+Source.cpp(24): warning C4005: 'FALSE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(71): note: see previous definition of 'FALSE'
+Source.cpp(304): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 108 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOP project.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OOP project\Release\OOP project.exe
+  OOP project.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OOP project\Release\OOP project.pdb (Full PDB)
